@@ -23,9 +23,18 @@
 * [C-WSL: Count-guided Weakly Supervised Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mingfei_Gao_C-WSL_Count-guided_Weakly_ECCV_2018_paper.pdf), ECCV 2018.
   * per-class object count
   * count-based region selection algorithm
+
+## 2. Object Localization
+
+* [ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46454-1_22.pdf), ECCV 2016.
+  * Leverage their surrounding context regions to improve localization.
   
 
-## 2. Semantic Segmentation
+## 3. Semantic Segmentation
 
 * [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
+* [Exploiting saliency for object segmentation from image level labels.], CVPR 2017.
+
+## 4. Salient Object Detection
+
 
