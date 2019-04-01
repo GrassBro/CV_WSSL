@@ -1,8 +1,9 @@
 # Weakly Supervised Learning in Computer Visiion
 
 ## 1. Object Detection
+### 1.1 Class Label Supervision
 
-* [Weakly supervised object detection with convex clustering], CVPR 2015.
+* [Weakly supervised object detection with convex clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bilen_Weakly_Supervised_Object_2015_CVPR_paper.pdf), CVPR 2015.
 
 * [Weakly Supervised Deep Detection Networks](http://homepages.inf.ed.ac.uk/hbilen/assets/pdf/Bilen16.pdf), CVPR 2016. [[code]](https://github.com/hbilen/WSDDN)
 
@@ -16,3 +17,15 @@
   * Shared convolutional computations.
 
 * [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](), ECCV 2018.
+
+### 1.2 Class and Count Labels as Supervision
+
+* [C-WSL: Count-guided Weakly Supervised Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mingfei_Gao_C-WSL_Count-guided_Weakly_ECCV_2018_paper.pdf), ECCV 2018.
+  * per-class object count
+  * count-based region selection algorithm
+  
+
+## 2. Semantic Segmentation
+
+* [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
+
