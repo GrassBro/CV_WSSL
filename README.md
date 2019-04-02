@@ -53,8 +53,10 @@
   * Finding the object's extent = Finding the background area
   * Explore the importance of saliency for seed generation
 
-* [Two-Phase Learning for Weakly Supervised Object Localization](Two-Phase Learning for Weakly Supervised Object Localization), ICCV 2017.
+* [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
 ## 4. Salient Object Detection
+
+* [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]]()
 
 
