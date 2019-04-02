@@ -19,7 +19,8 @@
   * Shared convolutional computations.
 
 * [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](), ECCV 2018.
-  * Semantic Segmentation Confidence Map (Pixelwise Purity and Completeness)
+  * Semantic Segmentation Confidence Map.
+  * Compute objectness scores for the regions inside and outside the box.
   
 
 ### 1.2 Class and Count Labels as Supervision
@@ -37,7 +38,9 @@
 * [ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46454-1_22.pdf), ECCV 2016.
   * Leverage their surrounding context regions to improve localization.
 
-* [Self-produced Guidance for Weakly-supervised Object Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), ECCV 2018.
+* [Self-produced Guidance for Weakly-supervised Object Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), ECCV 2018. [[code]](https://github.com/xiaomengyc/SPG)
+
+* [Self-Erasing Network for Integral Object Attention](https://arxiv.org/abs/1810.09821), NeurIPS 2018.
   
 
 ## 3. Semantic Segmentation
