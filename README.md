@@ -15,6 +15,7 @@
 * [Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning](https://arxiv.org/pdf/1503.00949.pdf), PAMI 2017. 
 
 * [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018.
+  * Using generated pseudo ground-truth to train fully-supervised RPN
 
 * [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018.
   * Min-entropy is used as a metric to measure the randomness of object localization during learning, as well as serving as a model to learn object locations.
@@ -74,6 +75,10 @@
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
 ## 4. Salient Object Detection
+
+* [Learning to Detect Salient Objects with Image-level Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8099887), CVPR 2017. [[code]](https://github.com/scott89/WSS)
+
+* [Weakly-supervised Salient Object detection using Image Labels](Weakly Supervised Salient Object Detection Using Image Labels), AAAI 2018.
 
 * [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
