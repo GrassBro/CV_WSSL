@@ -26,6 +26,10 @@
 
 ## 2. Object Localization
 
+* [Attention Networks for Weakly Supervised Object Localization](http://www.cs.umanitoba.ca/~ywang/papers/bmvc16_attention.pdf), BMVC 2016.
+  * computes an attention score on each candidate region in the image.
+  * candidate regions are combined together with their attention scores to form a whole-image feature vector. This feature vector is     used for classifying the image.
+
 * [ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46454-1_22.pdf), ECCV 2016.
   * Leverage their surrounding context regions to improve localization.
   
@@ -36,6 +40,7 @@
 * [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
   * Finding the object location (any point on the object)
   * Finding the object's extent = Finding the background area
+  * Explore the importance of saliency for seed generation
   
 
 ## 4. Salient Object Detection
