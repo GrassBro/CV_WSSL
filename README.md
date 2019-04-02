@@ -29,6 +29,11 @@
   * per-class object count
   * count-based region selection algorithm
 
+* [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
+  * Instance level segmentation using peak response and count knowledge
+  * Only per-class counts in subitizing range are provided
+  
+
 ## 2. Object Localization
 
 * [Attention Networks for Weakly Supervised Object Localization](http://www.cs.umanitoba.ca/~ywang/papers/bmvc16_attention.pdf), BMVC 2016.
