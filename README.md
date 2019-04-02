@@ -19,6 +19,8 @@
   * Shared convolutional computations.
 
 * [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](), ECCV 2018.
+  * Semantic Segmentation Confidence Map (Pixelwise Purity and Completeness)
+  
 
 ### 1.2 Class and Count Labels as Supervision
 
@@ -34,17 +36,21 @@
 
 * [ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised Localization](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46454-1_22.pdf), ECCV 2016.
   * Leverage their surrounding context regions to improve localization.
+
+* [Self-produced Guidance for Weakly-supervised Object Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), ECCV 2018.
   
 
 ## 3. Semantic Segmentation
 
 * [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
   * Train saliency model using Deeplab-V2 Resnet architecture based on MSRA dataset, which contains bounding box annotations.
+
 * [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
   * Finding the object location (any point on the object)
   * Finding the object's extent = Finding the background area
   * Explore the importance of saliency for seed generation
-  
+
+* [Two-Phase Learning for Weakly Supervised Object Localization](Two-Phase Learning for Weakly Supervised Object Localization), ICCV 2017.
 
 ## 4. Salient Object Detection
 
