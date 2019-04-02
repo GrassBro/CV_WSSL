@@ -52,12 +52,12 @@
 ## 3. Semantic Segmentation
 
 * [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
-  * Train saliency model using Deeplab-V2 Resnet architecture based on MSRA dataset, which contains bounding box annotations.
 
 * [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
   * Finding the object location (any point on the object)
   * Finding the object's extent = Finding the background area
   * Explore the importance of saliency for seed generation
+  * Train saliency model using Deeplab-V2 Resnet architecture based on MSRA dataset, which contains bounding box annotations.
 
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
