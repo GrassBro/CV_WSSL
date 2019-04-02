@@ -63,6 +63,6 @@
 
 ## 4. Salient Object Detection
 
-* [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]]()
+* [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
 
