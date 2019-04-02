@@ -33,7 +33,10 @@
 ## 3. Semantic Segmentation
 
 * [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
-* [Exploiting saliency for object segmentation from image level labels.], CVPR 2017.
+* [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
+  * Finding the object location (any point on the object)
+  * Finding the object's extent = Finding the background area
+  
 
 ## 4. Salient Object Detection
 
