@@ -14,6 +14,11 @@
 
 * [Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning](https://arxiv.org/pdf/1503.00949.pdf), PAMI 2017. 
 
+* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_W2F_A_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018.
+
+* [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018.
+  * Min-entropy is used as a metric to measure the randomness of object localization during learning, as well as serving as a model to learn object locations.
+
 * [Weakly Supervised Region Proposal Network and Object Detection](http://pengtang.xyz/publications/0640.pdf), ECCV 2018.  
   * Stage 1: Evaluating bjectness score of sliding windows based on low-level features;  
   * Stage 2: Proposal refinement based on classifier;   
@@ -33,6 +38,13 @@
 * [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
   * Instance level segmentation using peak response and count knowledge
   * Only per-class counts in subitizing range are provided
+
+### 1.3 Applications
+
+* [Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf), CVPR 2018.
+
+
+
   
 
 ## 2. Object Localization
