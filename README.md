@@ -86,6 +86,6 @@
 
 * [Weakly-supervised Salient Object detection using Image Labels](https://arxiv.org/abs/1803.06503), AAAI 2018.
 
-* [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
+* [Multi-source Weak Supervision for saliencly detection](https://arxiv.org/pdf/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
 
