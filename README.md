@@ -74,11 +74,17 @@
 
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
+### 3.2 Scribble Supervision
+
+* [On Regularized Losses for Weakly-supervised CNN Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meng_Tang_On_Regularized_Losses_ECCV_2018_paper.pdf), ECCV 2018.
+
+
+
 ## 4. Salient Object Detection
 
 * [Learning to Detect Salient Objects with Image-level Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8099887), CVPR 2017. [[code]](https://github.com/scott89/WSS)
 
-* [Weakly-supervised Salient Object detection using Image Labels](Weakly Supervised Salient Object Detection Using Image Labels), AAAI 2018.
+* [Weakly-supervised Salient Object detection using Image Labels](https://arxiv.org/abs/1803.06503), AAAI 2018.
 
 * [Multi-source Weak Supervision for saliencly detection](https://128.84.21.199/abs/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
