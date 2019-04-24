@@ -38,10 +38,6 @@
   * per-class object count
   * count-based region selection algorithm
 
-* [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
-  * Instance level segmentation using peak response and count knowledge
-  * Only per-class counts in subitizing range are provided
-
 ### 1.3 Applications
 
 * [Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.pdf), CVPR 2018.
@@ -79,6 +75,14 @@
 ### 3.2 Scribble Supervision
 
 * [On Regularized Losses for Weakly-supervised CNN Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meng_Tang_On_Regularized_Losses_ECCV_2018_paper.pdf), ECCV 2018.
+
+
+## 4. Instance Segmentation
+* [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).
+
+* [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
+  * Instance level segmentation using peak response and count knowledge
+  * Only per-class counts in subitizing range are provided
 
 
 
