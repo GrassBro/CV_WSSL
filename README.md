@@ -29,6 +29,8 @@
   * Semantic Segmentation Confidence Map.
   * Compute objectness scores for the regions inside and outside the box.
   
+* [You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection](http://krsingh.cs.ucdavis.edu/krishna_files/papers/w-rpn/w-rpn.pdf), CVPR 2019.
+  
 
 ### 1.2 Class and Count Labels as Supervision
 
