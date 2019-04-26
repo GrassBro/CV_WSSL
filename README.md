@@ -25,11 +25,13 @@
   * Stage 2: Proposal refinement based on classifier;   
   * Shared convolutional computations.
 
-* [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](), ECCV 2018.
+* [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](https://arxiv.org/pdf/1807.04897.pdf), ECCV 2018.
   * Semantic Segmentation Confidence Map.
   * Compute objectness scores for the regions inside and outside the box.
   
 * [You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection](http://krsingh.cs.ucdavis.edu/krishna_files/papers/w-rpn/w-rpn.pdf), CVPR 2019.
+
+* [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf), CVPR 2019.
   
 
 ### 1.2 Class and Count Labels as Supervision
