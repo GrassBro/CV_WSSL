@@ -76,6 +76,8 @@
 
 ### 3.2 Scribble Supervision
 
+* [ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1604.05144.pdf), CVPR 2016.
+
 * [On Regularized Losses for Weakly-supervised CNN Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meng_Tang_On_Regularized_Losses_ECCV_2018_paper.pdf), ECCV 2018.
 
 
