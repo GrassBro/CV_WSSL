@@ -1,4 +1,4 @@
-# Weakly Supervised Learning in Computer Visiion 
+# Weakly-/Semi-Supervised Learning in Computer Visiion 
   (In Collecting...)
 
 ## 1. Object Detection
