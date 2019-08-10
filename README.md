@@ -64,6 +64,8 @@
 
 ## 3. Semantic Segmentation
 
+### 3.1 Class Label Supervision
+
 * [Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016.
 
 * [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
@@ -87,6 +89,8 @@
 * [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
   * Instance level segmentation using peak response and count knowledge
   * Only per-class counts in subitizing range are provided
+
+* [Where are the Masks: Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1907.01430.pdf), BMVC 2019.
 
 
 
