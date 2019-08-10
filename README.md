@@ -96,10 +96,18 @@
 
 ## 4. Salient Object Detection
 
+### 4.1 Image
+
 * [Learning to Detect Salient Objects with Image-level Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8099887), CVPR 2017. [[code]](https://github.com/scott89/WSS)
 
 * [Weakly-supervised Salient Object detection using Image Labels](https://arxiv.org/abs/1803.06503), AAAI 2018.
 
 * [Multi-source Weak Supervision for saliencly detection](https://arxiv.org/pdf/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
+
+### 4.2 Video
+
+* [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](http://guanbinli.com/pb.html), ICCV 2019.
+
+
 
 
