@@ -60,6 +60,8 @@
 * [Self-produced Guidance for Weakly-supervised Object Localization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf), ECCV 2018. [[code]](https://github.com/xiaomengyc/SPG)
 
 * [Self-Erasing Network for Integral Object Attention](https://arxiv.org/abs/1810.09821), NeurIPS 2018.
+
+* [Attention-based Dropout Layer for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf), CVPR 2019(Oral).[[code]](https://github.com/junsukchoe/ADL)
   
 
 ## 3. Semantic Segmentation
