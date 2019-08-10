@@ -104,9 +104,11 @@
 
 * [Multi-source Weak Supervision for saliencly detection](https://arxiv.org/pdf/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
+* [Joint learning of saliency detection and weakly supervised semantic segmentation](http://ice.dlut.edu.cn/lu/publications.html), ICCV 2019 (Not released Yet).
+
 ### 4.2 Video
 
-* [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](http://guanbinli.com/pb.html), ICCV 2019.
+* [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](http://guanbinli.com/pb.html), ICCV 2019 (Not released Yet).
 
 
 
