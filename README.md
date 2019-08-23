@@ -110,8 +110,5 @@
 
 ### 4.2 Video
 
-* [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](http://guanbinli.com/pb.html), ICCV 2019 (Not released Yet).
-
-
-
-
+* [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](https://arxiv.org/pdf/1908.04051.pdf), ICCV 2019.
+  * Generating pixel-wsie pseudo-labels from sparsely annotated frames by using spatial and temporal information.
