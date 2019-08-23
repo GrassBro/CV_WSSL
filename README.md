@@ -112,3 +112,11 @@
 
 * [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](https://arxiv.org/pdf/1908.04051.pdf), ICCV 2019.
   * Generating pixel-wsie pseudo-labels from sparsely annotated frames by using spatial and temporal information.
+  
+## 5. Useful Slides for Comprehensive Reading
+
+* [Towards Weakly Supervised Object Segmentation & Scene Parsing](https://weiyc.github.io/assets/pdf/VALSE-2019-Workshop-YCWEI.pdf), by Yunchao Wei, Valse Workshop, 2019. 
+
+* [Weakly Supervised Semantic Segmentation](https://weiyc.github.io/assets/pdf/VALSE-2019-Tutorial-YCWEI.pdf), by Yunchao Wei, Valse Tutorial, 2019.
+
+* [Weakly Supervised Object Detection, Localization, and instance segmentation](http://valser.org/webinar/slide/slides/20190227/Weakly%20Supervised%20DLIS-TalkVersion.pdf), by Qixiang Ye, 2019.
