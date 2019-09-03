@@ -84,6 +84,11 @@
 
 * [On Regularized Losses for Weakly-supervised CNN Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meng_Tang_On_Regularized_Losses_ECCV_2018_paper.pdf), ECCV 2018.
 
+### 3.3 Semi-supervised Learning
+
+* [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/pdf/1908.11569.pdf), arXiv 1908.
+* [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
+
 
 ## 4. Instance Segmentation
 * [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).
@@ -113,7 +118,12 @@
 * [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](https://arxiv.org/pdf/1908.04051.pdf), ICCV 2019.
   * Generating pixel-wsie pseudo-labels from sparsely annotated frames by using spatial and temporal information.
   
-## 5. Useful Slides for Comprehensive Reading
+  
+## 5. Action Localization
+
+* []
+  
+## 6. Useful Slides for Comprehensive Reading
 
 * [Towards Weakly Supervised Object Segmentation & Scene Parsing](https://weiyc.github.io/assets/pdf/VALSE-2019-Workshop-YCWEI.pdf), by Yunchao Wei, Valse Workshop, 2019. 
 
