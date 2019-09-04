@@ -121,7 +121,7 @@
   
 ## 5. Action Localization
 
-* []
+* [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral). (Paper not released yet)
   
 ## 6. Useful Slides for Comprehensive Reading
 
