@@ -1,5 +1,5 @@
 # Weakly-/Semi-Supervised Learning in Computer Visiion 
-  (In Collecting...)
+  (Keep Collecting)
 
 ## 1. Object Detection
 ### 1.1 Class Label Supervision
