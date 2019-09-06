@@ -62,6 +62,8 @@
 * [Self-Erasing Network for Integral Object Attention](https://arxiv.org/abs/1810.09821), NeurIPS 2018.
 
 * [Attention-based Dropout Layer for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf), CVPR 2019(Oral).[[code]](https://github.com/junsukchoe/ADL)
+
+* [Integral Object Mining via Online Attention Accumulation](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf), ICCV 2019.
   
 
 ## 3. Semantic Segmentation
