@@ -125,7 +125,9 @@
 
 * [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral). (Paper not released yet)
   
-## 6. Useful Slides for Comprehensive Reading
+## 6. Useful Slides/Blogs for Comprehensive Reading
+
+* [Weakly Supervised Object Localization](https://www.jianshu.com/p/e0097769f3b3), by Zongwei Zhou, 2019.
 
 * [Towards Weakly Supervised Object Segmentation & Scene Parsing](https://weiyc.github.io/assets/pdf/VALSE-2019-Workshop-YCWEI.pdf), by Yunchao Wei, Valse Workshop, 2019. 
 
