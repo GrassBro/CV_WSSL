@@ -93,7 +93,10 @@
 ### 3.3 Semi-supervised Learning
 
 * [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/pdf/1908.11569.pdf), arXiv 1908.
+  * 
 * [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
+  *
+* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://www.ml.uni-saarland.de/Publications/KhoEtAl-SimpleDoesItWeaklySupSegmentation.pdf), CVPR 2017. [[code]](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)
 
 
 ## 4. Instance Segmentation
