@@ -34,6 +34,8 @@
 * [You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection](http://krsingh.cs.ucdavis.edu/krishna_files/papers/w-rpn/w-rpn.pdf), CVPR 2019.
 
 * [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf), CVPR 2019.
+
+* [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://arxiv.org/pdf/1909.04972.pdf), arXiv 1909.
   
 
 ### 1.2 Class and Count Labels as Supervision
@@ -66,6 +68,8 @@
 * [Attention-based Dropout Layer for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf), CVPR 2019(Oral).[[code]](https://github.com/junsukchoe/ADL)
 
 * [Integral Object Mining via Online Attention Accumulation](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf), ICCV 2019.
+
+* [Dual-attention Focused Module for Weakly Supervised Object Localization](https://arxiv.org/pdf/1909.04813.pdf), arXiv 1909.
   
 
 ## 3. Semantic Segmentation
