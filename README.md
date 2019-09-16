@@ -95,16 +95,14 @@
 * [On Regularized Losses for Weakly-supervised CNN Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meng_Tang_On_Regularized_Losses_ECCV_2018_paper.pdf), ECCV 2018.
 
 ### 3.3 Semi-supervised Learning
-
-* [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/pdf/1908.11569.pdf), arXiv 1908.
-  * 
-* [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
-  *
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://www.ml.uni-saarland.de/Publications/KhoEtAl-SimpleDoesItWeaklySupSegmentation.pdf), CVPR 2017. [[code]](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)
 
+* [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/pdf/1908.11569.pdf), arXiv 1908.
+
+* [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
 
 ## 4. Instance Segmentation
-* [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).
+* [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).[[code]](https://github.com/jiwoon-ahn/irn)
 
 * [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
   * Instance level segmentation using peak response and count knowledge
