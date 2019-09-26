@@ -133,6 +133,8 @@
 ## 5. Action Localization
 
 * [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral). (Paper not released yet)
+
+* [3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization](https://arxiv.org/pdf/1908.08216.pdf), arXiv 1908.
   
 ## 6. Useful Slides/Blogs for Comprehensive Reading
 
