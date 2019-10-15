@@ -135,6 +135,10 @@
 * [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral). (Paper not released yet)
 
 * [3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization](https://arxiv.org/pdf/1908.08216.pdf), arXiv 1908.
+
+## 6. Derain
+
+* [Semi-supervised Transfer Learning for Image Rain Removal](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Semi-Supervised_Transfer_Learning_for_Image_Rain_Removal_CVPR_2019_paper.pdf), CVPR 2019.
   
 ## 6. Useful Slides/Blogs for Comprehensive Reading
 
