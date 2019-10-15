@@ -140,7 +140,7 @@
 
 * [Semi-supervised Transfer Learning for Image Rain Removal](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Semi-Supervised_Transfer_Learning_for_Image_Rain_Removal_CVPR_2019_paper.pdf), CVPR 2019.
   
-## 6. Useful Slides/Blogs for Comprehensive Reading
+## 7. Useful Slides/Blogs for Comprehensive Reading
 
 * [Weakly Supervised Object Localization](https://www.jianshu.com/p/e0097769f3b3), by Zongwei Zhou, 2019.
 
