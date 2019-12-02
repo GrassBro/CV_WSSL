@@ -36,6 +36,8 @@
 * [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf), CVPR 2019.
 
 * [WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://arxiv.org/pdf/1909.04972.pdf), arXiv 1909.
+
+* [Towards Precise End-to-end Weakly Supervised Object Detection Network](https://arxiv.org/pdf/1911.12148.pdf), ICCV 2019.
   
 
 ### 1.2 Class and Count Labels as Supervision
