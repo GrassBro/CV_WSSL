@@ -90,6 +90,8 @@
 
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
+* [Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shimoda_Self-Supervised_Difference_Detection_for_Weakly-Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf), ICCV 2019.
+
 ### 3.2 Scribble Supervision
 
 * [ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1604.05144.pdf), CVPR 2016.
@@ -115,6 +117,10 @@
 
 * [Where are the Masks: Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1907.01430.pdf), BMVC 2019.
   * Baseline: IRN
+  
+* [Weakly Supervised Instance Segmentation by Deep Multi-Task Community Learning](https://arxiv.xilesou.top/pdf/2001.11207.pdf), arXiv 2001.
+
+* [Label-PEnet: Sequential Label Propagation and Enhancement Networks for Weakly Supervised Instance Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf), ICCV 2019.
 
 
 
