@@ -104,13 +104,17 @@
 * [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
 
 ## 4. Instance Segmentation
-* [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).[[code]](https://github.com/jiwoon-ahn/irn)
+* [PRM: Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/pdf/1804.00880.pdf), CVPR 2018.[[code]](https://github.com/ZhouYanzhao/PRM)
+
+* [IRN: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf), CVPR 2019(Oral).[[code]](https://github.com/jiwoon-ahn/irn)
 
 * [Object Counting and Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1903.02494.pdf), CVPR 2019.
   * Instance level segmentation using peak response and count knowledge
   * Only per-class counts in subitizing range are provided
+  * Baseline: PRM
 
 * [Where are the Masks: Instance Segmentation with Image-level Supervision](https://arxiv.org/pdf/1907.01430.pdf), BMVC 2019.
+  * Baseline: IRN
 
 
 
