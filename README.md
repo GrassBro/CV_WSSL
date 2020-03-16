@@ -3,7 +3,7 @@
 
 (Current included topics: Object Detection, semantic segmentation, instance segmentaion, salient object detection and action localization)
 
-TODO: It's unfriendly to list all subcategries together that we will be hard to find our target paper when searching in a long page. Next, I am going to build multiple pages to clearly package each subcategory, and put statistic info, key words, and corresponding links in the homepage. I plan to do this by the end of March, 2020.
+TODO: It's unfriendly to list all subcategries together that we are hard to find our target paper while searching in a long webpage. Next, I am going to build multiple pages to clearly package each subcategory, and put statistic info, key words, and corresponding links in the homepage. I plan to do this by the end of March, 2020.
 
 ## 1. Object Detection
 ### 1.1 Class Label Supervision
