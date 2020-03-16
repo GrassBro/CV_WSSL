@@ -105,6 +105,8 @@
 
 * [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/pdf/1908.11309.pdf), arXiv 1908.
 
+* [Semi-Supervised Semantic Image Segmentation with Self-correcting Networks](https://arxiv.org/pdf/1811.07073.pdf), CVPR 2020.
+
 ## 4. Instance Segmentation
 * [PRM: Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/pdf/1804.00880.pdf), CVPR 2018.[[code]](https://github.com/ZhouYanzhao/PRM)
 
