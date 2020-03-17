@@ -1,4 +1,4 @@
-# Weakly-/Semi-Supervised Learning in Computer Visiion 
+# Weakly-/Semi-Supervised Learning in Computer Vision 
 (Keep Collecting)
 
 (Current included topics: Object Detection, semantic segmentation, instance segmentaion, salient object detection and action localization)
