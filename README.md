@@ -83,10 +83,6 @@
 * [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://arxiv.org/pdf/1703.08448.pdf), CVPR 2017.
 
 * [Exploiting saliency for object segmentation from image level labels](https://arxiv.org/pdf/1701.08261.pdf), CVPR 2017. [[code]](https://github.com/coallaoh/GuidedLabelling)
-  * Finding the object location (any point on the object)
-  * Finding the object's extent = Finding the background area
-  * Explore the importance of saliency for seed generation
-  * Train saliency model using Deeplab-V2 Resnet based on MSRA dataset, which contains bounding box annotations.
 
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
@@ -138,25 +134,28 @@
 
 * [Multi-source Weak Supervision for saliencly detection](https://arxiv.org/pdf/1904.00566), CVPR 2019. [[code]](https://github.com/zengxianyu/mws)
 
-* [Joint learning of saliency detection and weakly supervised semantic segmentation](http://ice.dlut.edu.cn/lu/publications.html), ICCV 2019 (Not released Yet).
+* [Joint learning of saliency detection and weakly supervised semantic segmentation](https://arxiv.org/abs/1909.04161), ICCV 2019.
 
 ### 4.2 Video
 
 * [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](https://arxiv.org/pdf/1908.04051.pdf), ICCV 2019.
   * Generating pixel-wsie pseudo-labels from sparsely annotated frames by using spatial and temporal information.
-  
-  
-## 5. Action Localization
 
-* [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral). (Paper not released yet)
+## 5. Salient Instance Detection
+
+* [Weakly-supervised Salient Instance Detection](), BMVC 2020 (Oral, Best student paper runner-up).
+  
+## 6. Action Localization
+
+* [Weakly Supervised Energy-Based Learning for Action Segmentation](https://github.com/JunLi-Galios/CDFL), ICCV 2019 (Oral).
 
 * [3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization](https://arxiv.org/pdf/1908.08216.pdf), arXiv 1908.
 
-## 6. Derain
+## 7. Derain
 
 * [Semi-supervised Transfer Learning for Image Rain Removal](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Semi-Supervised_Transfer_Learning_for_Image_Rain_Removal_CVPR_2019_paper.pdf), CVPR 2019.
   
-## 7. Useful Slides/Blogs for Comprehensive Reading
+## 8. Useful Slides/Blogs for Comprehensive Reading
 
 * [Weakly Supervised Object Localization](https://www.jianshu.com/p/e0097769f3b3), by Zongwei Zhou, 2019.
 
