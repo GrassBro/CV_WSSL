@@ -3,8 +3,6 @@
 
 (Current included topics: Object Detection, semantic segmentation, instance segmentaion, salient object detection and action localization)
 
-TODO: It's unfriendly to list all subcategries together, making us find our target paper difficult while searching in a long webpage. Next, I am going to build multiple pages to clearly package each subcategory, and put statistic info, key words, and corresponding links in the homepage. I plan to do this by the end of March, 2020.
-
 ## 1. Object Detection
 ### 1.1 Class Label Supervision
 
@@ -93,6 +91,8 @@ TODO: It's unfriendly to list all subcategries together, making us find our targ
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/pdf/1708.02108.pdf), ICCV 2017.
 
 * [Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shimoda_Self-Supervised_Difference_Detection_for_Weakly-Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf), ICCV 2019.
+
+* [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/pdf/2009.12547.pdf), NeurIPS 2020.
 
 ### 3.2 Scribble Supervision
 
