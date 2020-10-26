@@ -143,7 +143,7 @@
 
 ## 5. Salient Instance Detection
 
-* [Weakly-supervised Salient Instance Detection](), BMVC 2020 (Oral, Best student paper runner-up).
+* [Weakly-supervised Salient Instance Detection](https://arxiv.org/pdf/2009.13898.pdf), BMVC 2020 (Oral, Best student paper runner-up).
   
 ## 6. Action Localization
 
