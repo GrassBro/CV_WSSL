@@ -1,7 +1,7 @@
 # Weakly-/Semi-Supervised Learning in Computer Vision 
-(Keep Collecting)
+⌛ Keep Collecting
 
-(Current included topics: **1)** Object Detection, **2)** semantic segmentation, **3)** instance segmentaion, **4)** salient object detection and **5)** action localization)
+Included tasks: **1)** Object Detection, **2)** Semantic Segmentation, **3)** Instance Segmentaion, **4)** Saliency Detection and **5)** Action Localization
 
 ## 1. Object Detection
 ### 1.1 Class Label Supervision
